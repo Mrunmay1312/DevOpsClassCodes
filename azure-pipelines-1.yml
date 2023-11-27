@@ -15,7 +15,7 @@ variables:
   webAppName: 'Deploy'
 
   # Environment name
-  environmentName: 'Test'
+  environmentName: 'Mrunmay'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
